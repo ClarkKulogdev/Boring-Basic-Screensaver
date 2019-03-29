@@ -1,0 +1,298 @@
+
+while true
+ do
+  echo "Entering Matrix mode."
+  sleep 1
+  echo "Entering Matrix mode.."
+  sleep 1
+  echo "Entering Matrix mode..."
+  sleep 3
+  clear
+  for((k=0;k<5000;k++))
+   do
+    echo -e "\033[32m\033[${k};0H $RANDOM $RANDOM $RANDOM $RANDOM $RANDOM $RANDOM $RANDOM $RANDOM $RANDOM $RANDOM $RANDOM $RANDOM $RANDOM $RANDOM $RANDOM $RANDOM $RANDOM $RANDOM $RANDOM"
+#    sleep 0.0001
+     sleep 0.0000001
+   done
+  clear
+  echo -e "\033[8m88888888   888    888  88888888    88888888   888      888"
+  echo           "88    888  888    888  88    888   88    888   888    888 "
+  echo           "88     888 888    888  88     888  88     888   888  888  "
+  echo           "88    888  888    888  88    888   88    888     888888   "
+  echo           "88888888   888    888  88888888    88888888        88     "
+  echo           "88         888    888  88          88              88     "
+  echo           "88         888    888  88          88              88     "
+  echo           "88         8888888888  88          88              88     "
+  echo           "88         8888888888  88          88              88     "
+  echo " "
+  echo " "
+  echo "                                           88         8888  88888      888  888    888    888     888  " 
+  echo "                                           88         8888  88 888     888  888    888     888   888   "
+  echo "                                           88         8888  88  888    888  888    888      888 888    "
+  echo "                                           88         8888  88   888   888  888    888       88888     "
+  echo "                                           88         8888  88    888  888  888    888      888888     "
+  echo "                                           88         8888  88     888 888  888    888     888  888    "
+  echo "                                           88         8888  88      888888  888    888    888    888   "
+  echo "                                           888888888  8888  88       88888  8888888888   888      888  "
+  echo "                                           888888888  8888  88        8888  8888888888  888        888 "
+  
+  
+  echo "Loading [                                                    ]"  
+  for((i=10,j=21;i<=60;i++))
+   do
+     echo -e "\033[1m\033[${j};${i}H##"
+     sleep 0.03
+#      sleep 0.00001
+   done
+  sleep 2
+  clear
+  sleep 3
+
+  echo "Uplink_User:"
+  echo -e "\033[0;13HW"
+  sleep 0.2
+  echo -e "\033[0;14He"
+  sleep 0.2
+  echo -e "\033[0;15H "
+  echo -e "\033[0;16Hn"
+  sleep 0.2
+  echo -e "\033[0;17He"
+  sleep 0.2
+  echo -e "\033[0;18He"
+  sleep 0.2
+  echo -e "\033[0;19Hd"
+  sleep 0.2
+  echo -e "\033[0;20H "
+  sleep 0.2
+  echo -e "\033[0;21Hb"
+  sleep 0.2
+  echo -e "\033[0;22Ha"
+  sleep 0.2
+  echo -e "\033[0;23Hc"
+  sleep 0.2
+  echo -e "\033[0;24Hk"
+  sleep 0.2
+  echo -e "\033[0;25Hu"
+  sleep 0.2
+  echo -e "\033[0;26Hp"
+  sleep 0.2
+  echo -e "\033[0;27H!"
+  sleep 2
+  echo -e "\033[2;0HUplink_User:"
+  echo -e "\033[2;13HW"
+  sleep 0.2
+  echo -e "\033[2;14He"
+  sleep 0.2
+  echo -e "\033[2;15H "
+  sleep 0.2
+  echo -e "\033[2;16Hn"
+  sleep 0.2
+  echo -e "\033[2;17He"
+  sleep 0.2
+  echo -e "\033[2;18He"
+  sleep 0.2
+  echo -e "\033[2;19Hd"
+  sleep 0.2
+  echo -e "\033[2;20H "
+  sleep 0.2
+  echo -e "\033[2;21Ha"
+  sleep 0.2
+  echo -e "\033[2;22H "
+  sleep 0.2
+  echo -e "\033[2;23Ht"
+  sleep 0.2
+  echo -e "\033[2;24Ha"
+  sleep 0.2
+  echo -e "\033[2;25Hn"
+  sleep 0.2
+  echo -e "\033[2;25H "
+  sleep 0.2
+  echo -e "\033[2;24H "
+  sleep 0.2
+  echo -e "\033[2;23H "
+  sleep 0.2
+  echo -e "\033[2;22H "
+  sleep 0.2
+  echo -e "\033[2;22Hi"
+  sleep 0.2
+  echo -e "\033[2;23Hr"
+  sleep 0.2
+  echo -e "\033[2;24H "
+  sleep 0.2
+  echo -e "\033[2;25Hs"
+  sleep 0.2
+  echo -e "\033[2;26Hu"
+  sleep 0.2
+  echo -e "\033[2;27Hp"
+  sleep 0.2
+  echo -e "\033[2;28Hp"
+  sleep 0.2
+  echo -e "\033[2;29Ho"
+  sleep 0.2
+  echo -e "\033[2;30Hr"
+  sleep 0.2
+  echo -e "\033[2;31Ht"
+  sleep 0.2
+  echo -e "\033[2;32H!"
+  sleep 2
+  echo -e "\033[3;0HCommand Center: Give us your coordinates."
+  echo "Uplink_User Sending the coordinates"
+  for((i=0;i<10;i++))
+   do
+   
+   echo -e "\033[4;37H.  "
+   sleep 0.4
+   echo -e "\033[4;37H.. "
+   sleep 0.4
+   echo -e "\033[4;37H..."
+   sleep 0.4
+   done
+  echo "Command Center:Roger that. Sending Air Support"
+
+  sleep 5
+  clear
+
+
+
+ 
+  for((i=0,l=60;i<200;i++,l--))
+     do
+      echo -e "\033[48;5;0m "
+      echo " " 
+      echo "             :WOW:ROFL:ROFL            ROFL:ROFL:WOW:                    "
+      echo "           ____/\______                       ____/\______               "
+      echo "     W    /            \                     /            \              "
+      echo "     0 ===          [  ]\              WOW===          [  ]\             "
+      echo "     W    \              \                   \              \            "
+      echo "           \______________]                   \______________]           "
+      echo "               I      I                           I       I              "
+      echo "            --------------/                    --------------/           "
+      echo " "
+      echo " "
+      echo " "
+      echo " "
+      echo " "
+      echo " "
+      echo -e "\033[48;5;4m                                                                                  "
+      echo -e "                                                                                  "
+      echo -e "                                                                                  "
+      echo -e "                                                                                  "
+      echo -e "                                                                                  "
+      echo -e "                                                                                  "
+      echo -e "                                                                                  "
+      echo -e "                                                                                  "
+      if [ $l -ge 0 ];then
+      
+        echo -e "\033[19;${l}H            /     "
+        echo -e "\033[20;${l}H       .0  /      "
+        echo -e "\033[21;${l}H\______( \/_____/ "
+        echo -e "\033[22;${l}H         /        "
+        echo -e "\033[23;${l}H        /         "
+      fi
+        echo -e "\033[48;5;0m"
+      
+      
+      sleep 0.4
+                                                                            
+      clear                                                                          
+      echo "                                                                         "
+      echo "                                                                         "
+      echo "    ROFL:ROFL:WOW:                              :WOW:ROFL:ROFL           "
+      echo "           ____/\______                       ____/\______               "
+      echo "          /            \                W    /            \              "
+      echo "    WOW===          [  ]\               O ===          [  ]\             "
+      echo "          \              \              W    \              \            "
+      echo "           \______________]                   \______________]           "
+      echo "               I      I                           I       I              "
+      echo "            --------------/                    --------------/           "
+    
+      echo " "
+      echo " "
+      echo " "
+      echo " "
+      echo " "
+      echo " "
+      echo -e "\033[48;5;4m                                                                      "
+      echo                "                                                                      "
+      echo                "                                                                      "
+      echo                "                                                                      "
+      echo                "                                                                      "
+      echo                "                                                                      "
+      echo                "                                                                      "
+      echo                "                                                                      "
+      if [ $l -ge 0 ];then
+       
+         echo -e "\033[19;${l}H      \         "
+         echo -e "\033[20;${l}H       \O.      "
+         echo -e "\033[21;${l}H\______/ )_____/"
+         echo -e "\033[22;${l}H                "
+         echo -e "\033[23;${l}H                " 
+      fi
+      echo -e "\033[48;5;0m"
+      sleep 0.4
+      clear
+      
+     done      
+
+ done
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
